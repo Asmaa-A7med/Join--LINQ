@@ -1,0 +1,15 @@
+C:\Users\asmaa\Desktop\.net track\Linq\linqJoin\linqJoin\bin\Debug\net6.0\linqJoin.exe
+C:\Users\asmaa\Desktop\.net track\Linq\linqJoin\linqJoin\bin\Debug\net6.0\linqJoin.deps.json
+C:\Users\asmaa\Desktop\.net track\Linq\linqJoin\linqJoin\bin\Debug\net6.0\linqJoin.runtimeconfig.json
+C:\Users\asmaa\Desktop\.net track\Linq\linqJoin\linqJoin\bin\Debug\net6.0\linqJoin.dll
+C:\Users\asmaa\Desktop\.net track\Linq\linqJoin\linqJoin\bin\Debug\net6.0\linqJoin.pdb
+C:\Users\asmaa\Desktop\.net track\Linq\linqJoin\linqJoin\obj\Debug\net6.0\linqJoin.csproj.AssemblyReference.cache
+C:\Users\asmaa\Desktop\.net track\Linq\linqJoin\linqJoin\obj\Debug\net6.0\linqJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmaa\Desktop\.net track\Linq\linqJoin\linqJoin\obj\Debug\net6.0\linqJoin.AssemblyInfoInputs.cache
+C:\Users\asmaa\Desktop\.net track\Linq\linqJoin\linqJoin\obj\Debug\net6.0\linqJoin.AssemblyInfo.cs
+C:\Users\asmaa\Desktop\.net track\Linq\linqJoin\linqJoin\obj\Debug\net6.0\linqJoin.csproj.CoreCompileInputs.cache
+C:\Users\asmaa\Desktop\.net track\Linq\linqJoin\linqJoin\obj\Debug\net6.0\linqJoin.dll
+C:\Users\asmaa\Desktop\.net track\Linq\linqJoin\linqJoin\obj\Debug\net6.0\refint\linqJoin.dll
+C:\Users\asmaa\Desktop\.net track\Linq\linqJoin\linqJoin\obj\Debug\net6.0\linqJoin.pdb
+C:\Users\asmaa\Desktop\.net track\Linq\linqJoin\linqJoin\obj\Debug\net6.0\linqJoin.genruntimeconfig.cache
+C:\Users\asmaa\Desktop\.net track\Linq\linqJoin\linqJoin\obj\Debug\net6.0\ref\linqJoin.dll
